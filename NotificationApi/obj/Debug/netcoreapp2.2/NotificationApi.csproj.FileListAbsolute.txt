@@ -1,0 +1,14 @@
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\bin\Debug\netcoreapp2.2\NotificationApi.deps.json
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\bin\Debug\netcoreapp2.2\NotificationApi.runtimeconfig.json
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\bin\Debug\netcoreapp2.2\NotificationApi.runtimeconfig.dev.json
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\bin\Debug\netcoreapp2.2\NotificationApi.dll
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.csprojAssemblyReference.cache
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.csproj.CoreCompileInputs.cache
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.RazorAssemblyInfo.cache
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.RazorAssemblyInfo.cs
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.AssemblyInfoInputs.cache
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.AssemblyInfo.cs
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.RazorTargetAssemblyInfo.cache
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\bin\Debug\netcoreapp2.2\NotificationApi.pdb
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.dll
+C:\Users\Deepshikha Khadgi\source\repos\NotificationApi\NotificationApi\obj\Debug\netcoreapp2.2\NotificationApi.pdb
